@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tuccim4n, an Argentinian boy that wants to work as a programmer or data scientist, i still don't know which one.
+- 👋 Hi, I’m @Tuccim4n, i'm from Argentina and i want to work as a programmer or data scientist, i still don't know which one.
 - 👀 I’m interested in programming, data science, AI, hacking.
 - 🌱 I’m studying computer science at university.
 - 💞️ I’m looking to collaborate on any project that can teach me about programming.
