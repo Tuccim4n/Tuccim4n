@@ -1,6 +1,6 @@
 ## Hello there creatures of the underwold 😈
 
-- I'm Juan Cruz, from Argentina. 🇦🇷
+- I'm Juan Cruz, from Argentina.
 - I like Programming, Artificial Intelligence and Hacking. 👨‍💻
 - I'm currently studying Computer Science at university. 👨‍🎓
 
