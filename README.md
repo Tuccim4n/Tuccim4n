@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tuccim4n, an Argentinian boy that wants to work as a programmer or data scientist, i still don't know which one.
-- 👀 I’m interested in programming, data science, AI, hacking
-- 🌱 I’m currently learning python but i want to learn more languages
-- 💞️ I’m looking to collaborate on any project that can teach me about programming
-- 📫 How to reach me tuccijuancruz@gmail.com 
+- 👀 I’m interested in programming, data science, AI, hacking.
+- 🌱 I’m studying computer science at university.
+- 💞️ I’m looking to collaborate on any project that can teach me about programming.
+- 📫 How to reach me tuccijuancruz@gmail.com. 
 
 <!---
 Tuccim4n/Tuccim4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
