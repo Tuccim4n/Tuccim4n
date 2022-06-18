@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Tuccim4n, i'm from Argentina and i want to work as a programmer or data scientist, i still don't know which one.
-- 👀 I’m interested in programming, data science, AI, hacking.
-- 🌱 I’m studying computer science at university.
-- 💞️ I’m looking to collaborate on any project that can teach me about programming.
-- 📫 How to reach me tuccijuancruz@gmail.com. 
+## Hello there creatures of the underwold 😈
 
-<!---
-Tuccim4n/Tuccim4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+## Weaponry
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+## Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Tuccim4n&count_private=true&show_icons=true&include_all_commits=true)
