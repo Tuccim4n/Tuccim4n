@@ -15,4 +15,4 @@ I'd like to continue learning if someone is willing to teach me you can contact 
 
 ## Stats 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuccim4n&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuccim4n&langs_count=8)](https://github.com/Tuccim4n/github-readme-stats)
