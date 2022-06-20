@@ -13,6 +13,6 @@ I'd like to continue learning if someone is willing to teach me you can contact 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pascal](https://img.shields.io/badge/-Pascal-yellow?style=flat-square&logo=Pascal)
 
-## Stats 📊
+<!--## Stats 📊-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuccim4n&langs_count=8)](https://github.com/Tuccim4n/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuccim4n&langs_count=8)](https://github.com/Tuccim4n/github-readme-stats)-->
