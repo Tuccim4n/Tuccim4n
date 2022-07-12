@@ -1,7 +1,7 @@
 ## Hello there creatures of the underwold 😈
 
 - I'm Juan Cruz, from Argentina.
-- I like Programming, Artificial Intelligence and Hacking. 👨‍💻
+- I like Programming, Big Data and Hacking. 👨‍💻
 - I'm currently studying Computer Science at university. 👨‍🎓
 
 I'd like to continue learning if someone is willing to teach me you can contact me: 
